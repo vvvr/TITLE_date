@@ -9,3 +9,6 @@ The data is pulled from a relational database and saved as separate tables.
 2. Art
 3. Artist
 
+The Exhibition table: _ExhIDpk; Exhibition year; DATE FROM; DATE TILL; EXHIBITION TITLE; ARTISTS; ORGANISATIONAL INFO.
+The Art table:
+the Artist table:

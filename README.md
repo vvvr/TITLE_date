@@ -9,7 +9,7 @@ The data is pulled from a relational database and saved as separate tables.
 2. Art
 3. Artist
 
-The Exhibition table: _ExhIDpk; Exhibition year; DATE FROM; DATE TILL; EXHIBITION TITLE; ARTISTS; ORGANISATIONAL INFO.
+The Exhibition table: _ExhID,Exhibition year,DATE FROM,DATE TILL,EXHIBITION TITLE,ARTIST,ARTIST_ID,ORGANISATIONAL INFO,Artwork_ID
 
 The Art table: 
 _ArtID,_ArtistID,ARTIST_MAKER_AUTHOR,ART_title,DATE_text,DETAILS_label,_ExhID,EXHIBITION_Title.

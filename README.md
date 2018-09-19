@@ -16,3 +16,5 @@ The Art table:
 _ArtID, _ArtistID, ARTIST_MAKER_AUTHOR, ART_title, DATE_text, DETAILS_label, _ExhID, EXHIBITION_Title.
 
 The Artist table:
+_ArtistID, ARTIST_nameonlabel, Artist_Last_First, ArtistNameFirst, ArtistNameLast, Artist_yearofbirth, Artist_countryofbirth, Artist_country, Artist_gender, Artist_website, Artist_Bio.
+The names are complete but other data, from Year of Birth to Artist Bio, are not entered because of time restrains.
